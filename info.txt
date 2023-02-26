@@ -1,1 +1,1 @@
-version: vanilla
+version: vanilla;
